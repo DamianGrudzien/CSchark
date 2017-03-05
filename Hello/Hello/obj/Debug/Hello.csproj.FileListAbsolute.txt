@@ -1,0 +1,6 @@
+C:\Users\Damian\Source\Repos\CSchark\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Users\Damian\Source\Repos\CSchark\Hello\Hello\bin\Debug\Hello.exe
+C:\Users\Damian\Source\Repos\CSchark\Hello\Hello\bin\Debug\Hello.pdb
+C:\Users\Damian\Source\Repos\CSchark\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Source\Repos\CSchark\Hello\Hello\obj\Debug\Hello.exe
+C:\Users\Damian\Source\Repos\CSchark\Hello\Hello\obj\Debug\Hello.pdb
